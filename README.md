@@ -5,30 +5,32 @@ Please complete this project proposal thoroughly so that your instructors can re
 * [Requirements (flexible)](https://gist.github.com/matt-winzer/745abaadb509371dfee2a756c8da0c5e)
 
 ## Project Description
-
+Linguage is a website that connects language learners from all over the world via instant video chat to practice and exchange languages.
 
 
 ## Problem Statement
-
+Throughout my years of learning languages and using just about every resource, one constant problem persisted and that is the ability to practice speaking with someone whenever I have free time. With a busy schedule as most people have, it is extremely difficult to find time and schedule ahead sessions of time. Most apps on the market you can connect with people, but that requires connecting first, trade Skype names, scheduling a tentative time, and most of the time something comes up that requires cancelling. Consistency is an issue. 
 
 
 ## How will your project solve this problem?
-
+Linguage will solve a major problem for language learners, especially those with busy schedules by allowing users to log on whenever they have an open window and immediately either create a video chat request or join others that are on the active list.
 
 
 ## 5 user stories (at least):
 
-*
-*
-*
-*
-*
+* Users can create a profile
+* Users can choose the language they wish to practice and language that they already speak that they can exchange. 
+* Users can connect via video. 
+* Users can type in the chat box next to the video with ability to edit and fix each other's grammar. 
+* Users can report other users if they are not utilizing the platform appropriately. 
 
 ## What technologies do you plan to use?
 
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
-*
+* React
+* MongoDB
+* C#/.NET
 
 ## ERD - Entity Relationship Diagram
 
