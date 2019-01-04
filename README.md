@@ -51,5 +51,6 @@ Inlcude some wireframes of your project.
 * [Draw.io](https://www.draw.io/)
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
+![erd](https://user-images.githubusercontent.com/36240410/50712760-e00d8300-102f-11e9-80df-333b4a4967fe.jpg)
 
 Do not spend more than 2 hours on your wireframes.
