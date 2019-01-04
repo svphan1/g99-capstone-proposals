@@ -38,7 +38,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * **You can draw it out & take a picture (quickest option) or use:**
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
-![erd](https://user-images.githubusercontent.com/36240410/50707311-a764ae00-101d-11e9-9928-30132f7c1600.jpg)
+
 
 
 
@@ -51,6 +51,7 @@ Inlcude some wireframes of your project.
 * [Draw.io](https://www.draw.io/)
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
-![erd](https://user-images.githubusercontent.com/36240410/50712760-e00d8300-102f-11e9-80df-333b4a4967fe.jpg)
+![img_5192](https://user-images.githubusercontent.com/36240410/50712821-2b279600-1030-11e9-9e43-746c0d74d07c.jpg)
+
 
 Do not spend more than 2 hours on your wireframes.
