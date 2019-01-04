@@ -39,8 +39,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
 
-
-
+![erd](https://user-images.githubusercontent.com/36240410/50712853-42668380-1030-11e9-8b23-73427b34b66b.jpg)
 
 
 ## Wireframes
