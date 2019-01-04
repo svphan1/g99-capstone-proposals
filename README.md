@@ -38,7 +38,7 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * **You can draw it out & take a picture (quickest option) or use:**
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
-![erd](https://user-images.githubusercontent.com/36240410/50707172-3d4c0900-101d-11e9-94b4-b1bb5f2ad189.jpg)
+
 
 
 
