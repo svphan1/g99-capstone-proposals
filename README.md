@@ -29,8 +29,10 @@ Linguage will solve a major problem for language learners, especially those with
 This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
 
 * React
-* MongoDB
-* C#/.NET
+* Semantic-UI
+* SQL
+* MongoDB or PostgreSQL
+* Python 
 
 ## ERD - Entity Relationship Diagram
 
