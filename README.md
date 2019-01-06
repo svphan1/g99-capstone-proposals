@@ -31,7 +31,7 @@ This does not need to be an exhaustive list. We want you to identify major techn
 * React
 * Semantic-UI
 * SQL
-* MongoDB or PostgreSQL
+* PostgreSQL
 * Python 
 
 ## ERD - Entity Relationship Diagram
